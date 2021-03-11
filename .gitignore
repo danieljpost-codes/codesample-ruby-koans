@@ -1,3 +1,5 @@
+koans/.path_progress
+*.swp
 *.gem
 *.rbc
 /.config
