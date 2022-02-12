@@ -1,2 +1,2 @@
 # codesample-ruby-koans
-This records my second journey through the Ruby Koans
+This records my second journey through the Ruby Koans.
